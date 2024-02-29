@@ -12,5 +12,3 @@ How to Use:
 1. Ensure the Pymata4 library is installed and your Arduino board is connected.
 2. Adjust the pin assignments as necessary for your hardware setup.
 3. Run the script to start the display. Modify the 'scrolling_display' function call to change the scrolling text.
-
-Note: This script is designed for demonstration purposes and may require adjustments for specific hardware configurations.
