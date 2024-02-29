@@ -1,6 +1,6 @@
 Control Seven-Segment Displays with Pymata4
 
-This program demonstrates how to use the Pymata4 library to control seven-segment displays connected to an Arduino board. It features the initialization of digital pins as outputs, displaying numbers and letters, and scrolling text across multiple displays.
+This program demonstrates how to use the Pymata4 library to control seven-segment displays connected to an Arduino board. It features the initialization of digital pins as outputs, displaying numbers and letters, and scrolling text.
 
 Key Features:
 - Initialization of digital pins for seven-segment display control.
